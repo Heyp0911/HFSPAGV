@@ -3,7 +3,7 @@ from pptx.util import Inches, Pt
 from pptx.enum.shapes import MSO_SHAPE
 from pptx.dml.color import RGBColor
 
-
+# 定义原图中的主题颜色
 def create_hfsp_diagram():
     # 创建一个新的PPT，选择一张空白幻灯片 (布局索引为6)
     prs = Presentation()
