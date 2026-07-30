@@ -1,0 +1,6 @@
+[submodule "HFSP-main"]
+	path = HFSP-main
+	url = git@github.com:Heyp0911/HFSP-main.git
+[submodule "Taylor___Francis_LaTeX_template_for_authors__Interact_layout___APA_reference_style_"]
+	path = Taylor___Francis_LaTeX_template_for_authors__Interact_layout___APA_reference_style_
+	url = git@github.com:Heyp0911/Taylor___Francis_LaTeX_template_for_authors__Interact_layout___APA_reference_style_.git
